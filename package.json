@@ -1,0 +1,8 @@
+{
+  "name": "ec2-deploy-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo Test successful"
+  }
+}
