@@ -4,5 +4,8 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo Test successful"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
